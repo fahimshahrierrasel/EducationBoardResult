@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Education Board Result</string>
+    <string name="examination">Examination</string>
+    <string name="year">Year</string>
+    <string name="board">Board</string>
+    <string name="roll_number">Roll Number</string>
+    <string name="reg_number">Registration Number</string>
+    <string-array name="exams">
+        <item>SSC/Dakhil/Equivalent</item>
+        <item>JSC/JDC</item>
+        <item>SSC/Dakhil</item>
+        <item>SSC(Vocational)</item>
+        <item>HSC/Alim</item>
+        <item>HSC(Vocational)</item>
+        <item>HSC(BM)</item>
+        <item>Diploma in Commerce</item>
+        <item>Diploma in Business Studies</item>
+    </string-array>
+    <string-array name="boards">
+        <item>Barisal</item>
+        <item>Chittagong</item>
+        <item>Comilla</item>
+        <item>Dhaka</item>
+        <item>Dinajpur</item>
+        <item>Jessore</item>
+        <item>Rajshahi</item>
+        <item>Sylhet</item>
+        <item>Madrasah</item>
+        <item>Technical</item>
+        <item>DIBS(Dhaka)</item>
+    </string-array>
+</resources>
